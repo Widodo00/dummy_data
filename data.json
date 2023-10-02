@@ -1,5 +1,4 @@
-[
-    {
+{
       country: "USA",
       value: 100,
     },
@@ -14,5 +13,4 @@
     {
       country: "Brazil",
       value: 25,
-    },
-  ]
+    }
