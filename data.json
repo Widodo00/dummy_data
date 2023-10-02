@@ -1,18 +1,18 @@
 [
     {
-      country: "USA",
-      value: 1000,
+        "country": "USA",
+        "value": 1000
     },
     {
-      country: "Canada",
-      value: 75,
+        "country": "Canada",
+        "value": 75
     },
     {
-      country: "Mexico",
-      value: 50,
+        "country": "Mexico",
+        "value": 50
     },
     {
-      country: "Brazil",
-      value: 25,
+        "country": "Brazil",
+        "value": 25
     }
 ]
