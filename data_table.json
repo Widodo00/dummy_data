@@ -1,18 +1,42 @@
 [
     {
         "country": "USA",
+        "kat": "a",
         "value": 100
     },
     {
         "country": "Canada",
+        "kat": "a",
         "value": 75
     },
     {
         "country": "Mexico",
+        "kat": "a",
         "value": 50
     },
     {
         "country": "Brazil",
+        "kat": "a",
+        "value": 25
+    },
+    {
+        "country": "USA",
+        "kat": "b",
+        "value": 100
+    },
+    {
+        "country": "Canada",
+        "kat": "b",
+        "value": 75
+    },
+    {
+        "country": "Mexico",
+        "kat": "b",
+        "value": 50
+    },
+    {
+        "country": "Brazil",
+        "kat": "b",
         "value": 25
     }
 ]
