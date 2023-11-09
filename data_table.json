@@ -1,16 +1,28 @@
 [
     {
-        "kat": "a",
-        "value_usa": 100,
-        "value_canada": 100,
-        "value_mexico": 100,
-        "value_brazil": 100
+        "kat": "semper timur",
+        "calon1":100,
+        "calon2":100,
+        "calon3":100,
+        "calon4":100,
+        "calon5":100,
+        "calon6":100,
+        "calon7":100,
+        "calon8":100,
+        "calon9":100,
+        "calon10":100,
     },
     {
-        "kat": "b",
-        "value_usa": 100,
-        "value_canada": 100,
-        "value_mexico": 100,
-        "value_brazil": 100
+        "kat": "semper barat",
+        "calon1":100,
+        "calon2":100,
+        "calon3":100,
+        "calon4":100,
+        "calon5":100,
+        "calon6":100,
+        "calon7":100,
+        "calon8":100,
+        "calon9":100,
+        "calon10":100,
     }
 ]
