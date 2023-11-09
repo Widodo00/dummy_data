@@ -1,18 +1,42 @@
 [
     {
-        "country": "USA",
-        "value": 100
-    },
-    {
-        "country": "Canada",
-        "value": 75
-    },
-    {
-        "country": "Mexico",
+        "country": "Calon1",
         "value": 50
     },
     {
-        "country": "Brazil",
+        "country": "Calon2",
+        "value": 75
+    },
+    {
+        "country": "Calon3",
+        "value": 100
+    },
+    {
+        "country": "Calon4",
         "value": 25
+    },
+    {
+        "country": "Calon5",
+        "value": 50
+    },
+    {
+        "country": "Calon6",
+        "value": 75
+    },
+    {
+        "country": "Calon7",
+        "value": 80
+    },
+    {
+        "country": "Calon8",
+        "value": 25
+    },
+    {
+        "country": "Calon9",
+        "value": 50
+    },
+    {
+        "country": "Calon10",
+        "value": 75
     }
 ]
